@@ -1,3 +1,7 @@
+FL Studio 2025 producer edition: https://drive.google.com/file/d/1mKdMzkpiIwXgHbN6uoukNXIpgg5EsBze/view?usp=sharing
+	
+PLUGINS
+
 	1. zenology: https://www.mediafire.com/file/l08mniesb2j945n/Roland_ZENOLOGY_Pro_v2.0.7_WIN-VR.rar/file
 	2. omnisphere: https://drive.google.com/file/d/1GIFoi03DOvvL5pOxCYgp2YeVhVHJB92Z/view?usp=sharing
 	3. serum: https://www.mediafire.com/file/1s2p0bgb69d238h/Xfer_Records_Serum_v2.0.2.3_Revision-X.rar/file
@@ -9,4 +13,6 @@
 	9. spitfire strings: https://usersdrive.com/e7pe0yi4cf3n.html
 	10. reFX Nexus: https://app.box.com/s/s7rlsyk2l45lhcoehzcajnhmkpb6v7x2
 	└── whole default library: https://www.mediafire.com/file/tjng7gumefayixt/Nexus_5_Factory_Content_Library.rar/file
-	11. 
+	11. ample guitar: https://drive.google.com/file/d/1atdr4iA6Xkd3HNEjSfPeAh2vdd4qtpzu/view
+	12. superior drummer: https://www.mediafire.com/file/50vkbpyutikhcqi/Toontrack_Superior_Drummer_v3.4.0_WIN-VR.rar/file
+	13. 
